@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurkagan" alt="onurkagan" /> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
